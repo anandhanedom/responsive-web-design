@@ -1,3 +1,6 @@
+/* Note:
+1. Inline: no padding and margin for y-axis */
+
 .card {
   background: #000;
   color: #fff;
@@ -22,4 +25,26 @@ p {
 .links {
   margin-top: 40px;
   margin-bottom: 0px;
+}
+
+.accent-colour {
+  color: yellow;
+}
+
+/* Link states */
+a:visited,
+a:link {
+  color: #ffe600;
+}
+
+a:focus {
+  color: aquamarine;
+}
+
+a:hover {
+  color: firebrick;
+}
+
+a:active {
+  color: plum;
 }
