@@ -14,6 +14,7 @@ img {
 
 .container {
   max-width: 670px;
+  margin: 0 auto;
 }
 
 a {
@@ -29,11 +30,14 @@ h2 {
   font-weight: 900;
 }
 
-h1 {
+header {
   color: #fff;
   background: #2e354f;
   padding: 45px;
   margin-top: 0;
+}
+
+h1 {
   font-size: 36px;
 }
 
