@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+}
+
+img {
+  width: 100%;
+}
+
+.card {
+  max-width: 670px;
+}
+
+a {
+  color: #ef5839;
+}
+
+section {
+  padding: 45px;
+}
+
+h1 {
+  color: #fff;
+  background: #2e354f;
+  padding: 45px;
+  margin-top: 0;
+  font-size: 36px;
+}
+
+h2 {
+  color: #ef5839;
+  font-size: 24px;
+}
+
+.section-one p {
+  color: #000;
+}
+
+.section-two p {
+  color: #fff;
+}
+
+button {
+  padding: 10px 20px;
+  font-weight: 500;
+}
+
+.btn-primary {
+  color: #fff;
+  background: #ef5839;
+}
+
+.btn-white {
+  color: #000;
+  background: #fff;
+}
+
+.section-two {
+  background: #2e354f;
+}
