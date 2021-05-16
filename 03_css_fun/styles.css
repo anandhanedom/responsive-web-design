@@ -12,7 +12,7 @@ img {
   width: 100%;
 }
 
-.card {
+.container {
   max-width: 670px;
 }
 
@@ -22,6 +22,11 @@ a {
 
 section {
   padding: 45px;
+}
+
+h1,
+h2 {
+  font-weight: 900;
 }
 
 h1 {
@@ -48,6 +53,7 @@ h2 {
 button {
   padding: 10px 20px;
   font-weight: 500;
+  display: inline-block;
 }
 
 .btn-primary {
